@@ -1,6 +1,5 @@
 package org.peng.pdf2in1;
 
-import com.itextpdf.text.DocumentException;
 
 import javax.swing.*;
 import java.io.IOException;
